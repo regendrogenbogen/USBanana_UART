@@ -1,0 +1,12 @@
+Positions/quantity	Item	Description	Link
+
+IC1	MCP2200-I/SO	USB to UART brigde	http://www.microchip.com/wwwproducts/en/MCP2200 /  http://at.farnell.com/microchip/mcp2200-i-so/usb2-0-to-uart-w-gpio-20soic/dp/1781148
+Y1	CSTCE12    SMD ceramic resonator 12MHz	http://at.farnell.com/murata/cstce12m0g15l99-r0/keramik-resonator-12mhz-smd/dp/2470356
+D1, D2	SMD LED 0603 or 0805 0603 for v1.0; 0805 for v1.1 	-
+
+R1, R2	Value depends on your LEDs, should be 330 Ohms or more	SMD resistor 0805	-
+R3	1k	SMD resistor 0805	-
+C1, C2, C3	100n	SMD ceramic condensator 0805	-
+
+X1	Micro USB socket	Type B	http://at.farnell.com/amphenol-fci/10104110-0001lf/micro-usb-2-0-buchse-typ-b-smd/dp/2293753
+
